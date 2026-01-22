@@ -5,7 +5,7 @@ This project demonstrates a relational database design for a Flipkart-like syste
 ## Tools Used
 - MySQL Command Line
 - MySQL Workbench
-## Tables Created
+## Database Tables Created
 - Product Table
 - Seller Table
 - Dealer Table
@@ -21,3 +21,10 @@ This project demonstrates a relational database design for a Flipkart-like syste
 All queries and outputs are documented in the PDF file included in this repository.
 ## Learning Outcome
 This project improved my understanding of relational databases, joins, and views using MySQL.
+## Concepts Covered
+- DDL Commands (CREATE, ALTER)
+- Primary Key & Foreign Key
+- Table Relationships
+- INNER JOIN
+- Views
+- Custom User Queries
